@@ -1,0 +1,19 @@
+# Dataset and everything derived from it (see README.md)
+Data/
+*.h5
+*.npy
+*.npz
+*.wav
+*.TextGrid
+
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
